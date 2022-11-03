@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="True">
+    <Style src="project://database/Assets/UI/Forms/CrossDomainTest/CrossDomainTest.uss?fileID=7433441132597879392&amp;guid=0b851303027ede449a33173bacb486c6&amp;type=3#CrossDomainTest" />
+    <ProgressBar name="top-progress-bar" style="height: 75px; position: absolute; left: 25px; top: 25px; right: 25px;" />
+</ui:UXML>

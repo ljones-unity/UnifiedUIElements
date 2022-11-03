@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="background" style="background-color: rgb(38, 38, 38); margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 15px; padding-right: 15px; padding-top: 15px; padding-bottom: 15px; flex-direction: row; flex-grow: 1;">
+        <ui:VisualElement name="progress" style="background-color: rgb(154, 154, 154); flex-grow: 1;" />
+    </ui:VisualElement>
+</ui:UXML>
